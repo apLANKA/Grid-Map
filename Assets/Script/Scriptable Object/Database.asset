@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 976d79f2b0749e34583bc9f1ad34cc1f, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  objectDatas:
+  - <Name>k__BackingField: Red Building
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 2954436676231647698, guid: 9db3343bfa047dd4ea7000a3d21d37b4, type: 3}
+  - <Name>k__BackingField: White House
+    <ID>k__BackingField: 7
+    <Size>k__BackingField: {x: 3, y: 1}
+    <Prefab>k__BackingField: {fileID: 2264998019351650732, guid: 2b125e0acdb55b44597c1478e3ac057a, type: 3}
+  - <Name>k__BackingField: Blue House
+    <ID>k__BackingField: 8
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 8162307725131232255, guid: 9dcad00107adf0740b193795e3d31e22, type: 3}
+  - <Name>k__BackingField: Green House
+    <ID>k__BackingField: 9
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 8122145922581538198, guid: 8be1339fd70ef5944998c6cfd3d46bb0, type: 3}
+  - <Name>k__BackingField: Hotel
+    <ID>k__BackingField: 10
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 135088047606244050, guid: c062996d91165da46a95e4973ccdcf49, type: 3}
+  - <Name>k__BackingField: Market
+    <ID>k__BackingField: 11
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 9214533657349603467, guid: 6142ca2de7deebd4997345e4232b02a1, type: 3}
+  - <Name>k__BackingField: Pizza
+    <ID>k__BackingField: 12
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 4901013750428956287, guid: 5635daf42a556ef4f8bc422b5076dd4b, type: 3}
+  - <Name>k__BackingField: Yellow House
+    <ID>k__BackingField: 13
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 4602022608273490320, guid: cc6728b08899ea6429c7f9039aa5d85e, type: 3}
